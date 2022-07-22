@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875281199271",
+    "firebase_url": "https://collage-management-c2b5c-default-rtdb.firebaseio.com",
+    "project_id": "collage-management-c2b5c",
+    "storage_bucket": "collage-management-c2b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875281199271:android:70c52c8af211d12d2a6b82",
+        "android_client_info": {
+          "package_name": "com.geral_area.collegemanagementadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875281199271-ve8c7tqupst7fdrjqegcmutbg3esnu7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7Oil5Nz29pN7KD4ec5nlM5mHo4NRMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875281199271-ve8c7tqupst7fdrjqegcmutbg3esnu7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

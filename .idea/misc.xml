@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/back2_rounded.xml" value="0.1735" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/back_rounded.xml" value="0.1735" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/btn.xml" value="0.1735" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/btn2.xml" value="0.1825" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/btn_like.xml" value="0.1325" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/edt.xml" value="0.1735" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1595" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/ic_edit.xml" value="0.158" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/drawable/text_border.xml" value="0.1855" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_contect_info.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_course.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_location.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_notice.xml" value="0.1328125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_pdf.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_slider.xml" value="0.1328125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_add_teacher.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_college_about.xml" value="0.22" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_delete.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_delete_data.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_login.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_main.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_pdf_list.xml" value="0.1328125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_register.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_share_key.xml" value="0.14305555555555555" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_show_pdf.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_splash_activiy.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_teacher_slider.xml" value="0.15" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_test.xml" value="0.144921875" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_image_list.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_notice.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_notice2.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_notice_list.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_pdf.xml" value="0.1328125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_slide_images.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_slides.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_teacher.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_teacher2.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_teacher_list.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_update_teacher_sliders.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/activity_upload_image.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/course_items.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/image_inner_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/image_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/notice_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/pdf_itmes.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/sigle_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/single_image.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/slide_alert_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/slide_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/slide_remove_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/teacher_item.xml" value="0.144921875" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/teacher_slide_item.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/test_work_delete_layout.xml" value="0.145703125" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/layout/view_items.xml" value="0.144921875" />
+        <entry key="..\:/JAVA DEVELOPMENT APP/COLLEGE MANAGEMENT/CollegeManagementAdmin/app/src/main/res/menu/menu.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
